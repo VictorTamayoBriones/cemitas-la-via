@@ -6,3 +6,5 @@ const theme = {
     negroTransparente: 'rgba(0,0,0,0.5)',
     sombra: 'rgba(0,0,0,0.3)'
 }
+
+export default theme;
