@@ -39,6 +39,9 @@ const ImageContainer = styled.div`
         height: 600px;
         object-fit: cover;
     }
+    @media (max-width: 1000px){
+        height: 300px;
+    }
 `;
 
 export default Slider;

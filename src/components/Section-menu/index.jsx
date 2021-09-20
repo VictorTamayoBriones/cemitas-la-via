@@ -1,9 +1,13 @@
-import HeaderSection from "../../elementos/Header-section";
+import CemitasYTortas from './secciones/CemitasYTortas';
+import Desayunos from './secciones/Desayunos';
+import Especiales from './secciones/Especiales';
 
 const SectionMenu = () => {
     return (  
         <>
-            <HeaderSection />
+            <CemitasYTortas />
+            <Desayunos />
+            <Especiales />
         </>
     );
 }
