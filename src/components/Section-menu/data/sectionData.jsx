@@ -46,13 +46,11 @@ const Sections = [
         title: 'Especiales',
         images: [Especial1, Especial2],
         menu: [
-            'Ord. Huevos al gusto',
-            'Sándwich',
-            'Enchiladas Verdes/Rojas',
-            'Chilaquiles Verdes/Rojos',
-            'Moyetes',
-            'Coctel de frutas',
-            'Jugos/Licuados'
+            'Club sándwich',
+            'Milanesa de pollo/res',
+            'Ord tacos campechanos',
+            'Costilla de roastbeef',
+            'Parrilla Hawaiana'
         ]
     }
 ]
