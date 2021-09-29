@@ -41,9 +41,10 @@ const ContainerHorario = styled.div`
     align-items: center;
     gap: 30px;
     background: rgba(224,169,38,1);
-    background: linear-gradient(0deg, rgba(255,255,255,.4) 0%, rgba(224,169,38,1) 89%);
+    background: linear-gradient(0deg, rgba(255,255,255,.4) 60%, rgba(224,169,38,1) 100%);
     img{
         width: 100%;
+        height: 200px;
     }
 `;
 

@@ -7,6 +7,7 @@ import styled from 'styled-components';
 import BannerSlider from "../../elementos/Banner-slider";
 
 const Slider = () => {
+
     return (
         <Carousel 
                 showStatus={false} showThumbs={false} showArrows={false} 
@@ -34,6 +35,7 @@ const ImageContainer = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: -1;
     img{
         width: 100%;
         height: 600px;
